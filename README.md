@@ -21,5 +21,5 @@ Starting with the Classic Models dataset, I performed extensive SQL-based data w
 
 📈 Monthly sales trends and growth analysis
 
-The Power BI dashboard can be reviewed by following the [link](https://github.com/CreaTer619/portfolio-projects/blob/main/Sales%20Overview%20Classic%20Models.pbix)
+The Power BI dashboard can be reviewed by following the [link](https://github.com/CreaTer619/portfolio-projects/blob/main/Sales%20Overview%20Classic%20Models.pbix).
 
