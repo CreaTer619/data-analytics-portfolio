@@ -23,3 +23,36 @@ Starting with the Classic Models dataset, I performed extensive SQL-based data w
 
 The Power BI dashboard can be reviewed by following the [link](https://github.com/CreaTer619/portfolio-projects/blob/main/Sales%20Overview%20Classic%20Models.pbix).
 
+[Financial Investment Data Analysis](https://github.com/CreaTer619/portfolio-projects/blob/main/Finance%20Data%20Analysis.ipynb)
+
+This project analyzes investment preferences and behaviors across different age groups and genders, aiming to understand what influences individual investment decisions.
+
+Key aspects of the analysis:
+
+🧹 Data Cleaning & Preparation: Processed and structured survey-based investment data for analysis.
+
+📈 Demographic Analysis: Explored how age and gender influence investment choices such as stocks, mutual funds, real estate, fixed deposits, and gold.
+
+🎯 Behavioral Insights: Identified key factors affecting investment decisions, including risk appetite, income level, and investment goals.
+
+📊 Visualization: Used insightful plots (bar charts, pie charts, histograms) to highlight patterns and trends in financial preferences.
+
+This project showcases data-driven insights into personal finance behavior and demographic trends using tools like pandas, matplotlib, and seaborn.
+
+[Netflix Dataset](https://github.com/CreaTer619/portfolio-projects/blob/main/Netflix%20Files.sql)
+
+This project explores and visualizes a dataset containing Netflix's content library. With Excel, we complete the process of Data Cleaning and preparation followed by loading the dataset to fit inside SQL.
+
+The [Power BI dashboard](https://github.com/CreaTer619/portfolio-projects/blob/main/Netflix%20Dataset.pbix) provides interactive insights into the platform’s movies and TV shows over time. Key highlights include:
+
+Content Overview: A summary of total titles, broken down by type (Movie/TV Show), with trends over the years.
+
+Genre & Country Analysis: Visualization of the most common genres and countries producing Netflix content.
+
+Release Year Trends: Analysis of content distribution by release year and addition year to the platform.
+
+Ratings & Duration Insights: Charts illustrating the distribution of content ratings (e.g., TV-MA, PG-13) and average duration of movies and shows.
+
+Dynamic Filtering: Slicers for filtering by country, type, and year to allow interactive exploration.
+
+This project demonstrates data transformation, model building, and dashboard design skills using Power BI to deliver clear and engaging insights into streaming content trends.
