@@ -53,6 +53,32 @@ Release Year Trends: Analysis of content distribution by release year and additi
 
 Ratings & Duration Insights: Charts illustrating the distribution of content ratings (e.g., TV-MA, PG-13) and average duration of movies and shows.
 
+[Cricket Stats Analysis](https://github.com/CreaTer619/portfolio-projects/blob/main/Cricket%20Stats%20Analysis.sql)
+
+This project analyzes cricket player performance data using a structured pipeline. [Python](https://github.com/CreaTer619/portfolio-projects/blob/main/Import%20Cricket%20Data%20for%20SQL.py) was used to clean and preprocess raw cricket statistics, which were then inserted into a SQL database using libraries like pandas, numpy and, mysql.connector.
+
+SQL queries were designed to extract key insights such as batting averages, strike rates, and format-based comparisons. The results were visualized in Power BI through [interactive dashboards](https://github.com/CreaTer619/portfolio-projects/blob/main/Cricket%20Stats%20Analysis.pbix), enabling dynamic exploration of player and team performance across different match formats.
+
+This project showcases the integration of data engineering, analysis, and visualization tools to deliver meaningful sports analytics.
+
 Dynamic Filtering: Slicers for filtering by country, type, and year to allow interactive exploration.
 
 This project demonstrates data transformation, model building, and dashboard design skills using Power BI to deliver clear and engaging insights into streaming content trends.
+
+[Titanic Survival Model](https://github.com/CreaTer619/portfolio-projects/blob/main/Titanic%20Suvival%20ML%20Project.ipynb)
+
+This project applies machine learning techniques to predict the survival of passengers aboard the Titanic, using data from the well-known Kaggle Titanic dataset.
+
+Data Preprocessing:
+The dataset was cleaned and prepared using Python libraries such as pandas and NumPy. Missing values were handled through imputation, categorical variables were encoded (e.g., Sex, Embarked), and relevant features were selected and scaled where necessary.
+
+Exploratory Data Analysis (EDA):
+Statistical summaries and visualizations were used to explore correlations between features (e.g., age, fare, passenger class) and survival outcomes.
+
+Model Development:
+Several machine learning models were trained and evaluated, including Logistic Regression, Decision Trees, and Random Forest classifiers. Model performance was assessed using accuracy, precision, recall, and confusion matrices on a held-out test set.
+
+Outcome:
+The final model achieved strong predictive performance and provided insights into key factors influencing survival, such as passenger class, gender, and age.
+
+This project demonstrates the complete ML workflow from data cleaning to model evaluation and highlights the practical application of classification algorithms in a real-world dataset.
